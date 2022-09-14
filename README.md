@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gökmen ATakan Türkmen</h1>
 <h3 align="center">A passionate Robotic Programmmer and Controller from Turkey</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/zZg05JXw0PR6Pod1NC/giphy.gif?cid=ecf05e47n3znsww6yyuc0k4g33trt8n7ojgr82iz2xqh68q1&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokmenatakant&label=Profile%20views&color=0e75b6&style=flat" alt="gokmenatakant" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokmenatakant" alt="gokmenatakant" /></a> </p>
