@@ -6,11 +6,11 @@ Revolutionize robotics and self-driving vehicles with our dynamic and skilled pr
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokmenatakant" alt="gokmenatakant" /></a> </p>
 
-- 🌱 I’m currently learning **SelfDriving Algorithm**
+- 🌱 I’m currently learning **SelfDriving Car Algorithm**
 
-- 👯 I’m looking to collaborate on **ROS, Machine Learning and Image Processing**
+- 👯 I’m looking to collaborate on **ROS1,2, Machine Learning and Image Processing**
 
-- 🤝 I’m looking for help with **Python Programming**
+- 🤝 I’m looking for help with **C++ Programming**, **Python Programming**
 - 👀 I’m interested in Robotic Operating System(ROS), Image Processing and Machine Learning
 
 - 📫 How to reach me **gokmenatakanturkmen@gmail.com**
