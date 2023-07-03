@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gökmen ATakan Türkmen</h1>
-<h3 align="center">A passionate Robotic Programmmer,Controller and Phds from Turkey</h3>
+<h3 align="center">A passionate Robotic Programmer,Controller and Phdc from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/zZg05JXw0PR6Pod1NC/giphy.gif?cid=ecf05e47n3znsww6yyuc0k4g33trt8n7ojgr82iz2xqh68q1&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokmenatakant&label=Profile%20views&color=0e75b6&style=flat" alt="gokmenatakant" /> </p>
 
@@ -7,10 +7,10 @@
 
 - 🌱 I’m currently learning **SelfDriving Algorithm**
 
-- 👯 I’m looking to collaborate on **ROS, Machine Learning and Image Projessing**
+- 👯 I’m looking to collaborate on **ROS, Machine Learning and Image Processing**
 
 - 🤝 I’m looking for help with **Python Programming**
-- 👀 I’m interested in Robotic Operating System(ROS), Image Processing and Machine Learnnig
+- 👀 I’m interested in Robotic Operating System(ROS), Image Processing and Machine Learning
 
 - 📫 How to reach me **gokmenatakanturkmen@gmail.com**
 
